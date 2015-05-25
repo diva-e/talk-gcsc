@@ -5,7 +5,7 @@ Hier finden sich einige Code-Beispiele zum [Vortrag][jfs] und [Artikel][jak] „
 Der Vortrag wurde bei der [JUG Karlsruhe am 26. November 2014][jugka] aufgezeichnet.
 
 
-[jfs]: http://www.java-forum-stuttgart.de/de/Abstracts+Slot+5.html#art510 "Vortrag beim Java Forum Stuttgart"
+[jfs]: http://2014.java-forum-stuttgart.de/de/Abstracts+Slot+5.html#art510 "Vortrag beim Java Forum Stuttgart"
 [jak]: http://www.ijug.eu/java-aktuell/das-magazin.html "Java aktuell, Ausgabe 02 / 2015"
 [mk]: http://www.markus-kiss.de "Homepage von Markus Kiss"
 [ck]: http://kumpe.de/christian "Homepage von Christian Kumpe"
